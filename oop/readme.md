@@ -4,7 +4,7 @@
 
 ## Summary
 
-* [简介](README.md)
+* [简介](readme.md)
 * [第一周](chapter1/README.md)
    1. [C++编程简介](chapter1/1_1.md)
    2. [头文件与类的声明](chapter1/1_2.md)
